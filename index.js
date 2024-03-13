@@ -13,16 +13,16 @@ app.get("/", (req, res) => {
       <head>
         <title>Simple Meta Tags Example</title>
         
-        <meta property="og:image" content="file:///home/shunbhamweb3/Pictures/PHOTOS/010.jpeg">
+        <meta property="og:image" content="https://www.theinterrobang.ca/images/interrobang/030819/B8QC6DAZ9PWRK7M2.jpg">
         <meta property="fc:frame" content="Next">
-        <meta property="fc:frame:image" content="file:///home/shunbhamweb3/Pictures/PHOTOS/010.jpeg">
+        <meta property="fc:frame:image" content="https://www.theinterrobang.ca/images/interrobang/030819/B8QC6DAZ9PWRK7M2.jpg">
         <meta property="fc:frame:button:1" content="specs">
         <meta property="fc:frame:button:1:action" content="link">
         <meta property="fc:frame:button:1:target" content="https://docs.farcaster.xyz/reference/frames/spec">
         
         <meta property="fc:frame:button:2" content="image">
         <meta property="fc:frame:button:2:action" content="link">
-        <meta property="fc:frame:button:2:target" content="file:///home/shunbhamweb3/Pictures/PHOTOS/010.jpeg">
+        <meta property="fc:frame:button:2:target" content="https://www.theinterrobang.ca/images/interrobang/030819/B8QC6DAZ9PWRK7M2.jpg">
         
         <meta property="fc:frame:button:3" content="frame validator">
         <meta property="fc:frame:button:3:action" content="link">
